@@ -1,4 +1,4 @@
-Hi. I’m mstao, in 🇨🇳. 👋
+Hi. I’m mstao, in 🇨🇳. ![image](https://avatars2.githubusercontent.com/u/70752846?s=200&v=4)
 
 <!--
 **mstao/mstao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
