@@ -1,4 +1,4 @@
-![image](https://github.com/mstao/mstao/blob/main/i.jpg?raw=true)
+<!--![image](https://github.com/mstao/mstao/blob/main/i.jpg?raw=true)
 
 Hi. I’m mstao, in 🇨🇳. 
 
